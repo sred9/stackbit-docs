@@ -256,6 +256,7 @@ display: inline-block;
     box-shadow: rgb(228, 232, 238) 0px 0px 0px 0.5px;
     padding: 20px;
     border: 1px solid #e9edf1;
+    border-radius:10px;
     
 }
 
@@ -271,10 +272,13 @@ display: inline-block;
 }
 
 .block-item-title {
-  font-size: 1.5rem;
+  /*font-size: 1.5rem;*/
   margin: 0 0 0.9375rem;
   padding-left: 2.25rem;
   padding-right: 2.25rem;
+ font-size:18px;
+ line-height:27px;
+ 
 
   a {
     border: 0;
@@ -291,6 +295,12 @@ display: inline-block;
   margin: 0 0 1.25rem;
   padding-left: 2.25rem;
   padding-right: 2.25rem;
+ 
+ a {
+ font-size:14px;
+  line-height:24px;
+  
+ }
 }
 
 .block-item-cta {
