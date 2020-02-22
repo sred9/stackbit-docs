@@ -16,7 +16,6 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%26Display=swap" rel="stylesheet"/>
-                     <link href="https://fonts.googleapis.com/css?family=Armata|Open+Sans&display=swap" rel="stylesheet">
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>
                 <div id="page" className="site">
