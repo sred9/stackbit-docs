@@ -3,6 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url(https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css);
 html {
   font-family: 'Open Sans';
   font-size: 100%;
@@ -41,7 +42,7 @@ h6 {
   line-height: 1.2;
   margin: 2.25rem 0 1.125rem;
   text-rendering: optimizeLegibility;
-  font-family: "NeoSans";
+font-family: neo-sans, sans-serif!important;
 
   &:first-child {
     margin-top: 0;
