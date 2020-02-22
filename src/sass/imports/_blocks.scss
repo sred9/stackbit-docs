@@ -22,6 +22,17 @@
 .block-title {
   font-size: 2.25rem;
   margin: 0 0 1.875rem;
+ display: inline-block;
+    height: 56px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5NSA0MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZGE1ZDtvcGFjaXR5OjAuODM7aXNvbGF0aW9uOmlzb2xhdGU7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5zcGFuLXBhdHRlcm4teWVsbG93LWxvbmc8L3RpdGxlPjxwYXRoIGNsYXNzPSJhIiBkPSJNOTUsLjA5Qzk1LjIyLDI4LjcyLDc2LjQ5LDQwLjIzLDMxLDQwTC4xMywzOS44M3MwLTEuMjItLjEzLTE3UzYuMzMuMDksMjMuNTQuMDlDNTYuMTMuMDksOTQuODUtLjEyLDk1LC4wOVoiLz48L3N2Zz4=);
+    background-size: auto 56px;
+    filter: saturate(120%);
+    overflow: visible;
+    margin: 0px -10px -24px 0px;
+    background-position: 74% 53%;
+    background-repeat: no-repeat;
 }
 
 .block-text {
