@@ -4,8 +4,9 @@
  */
  .site-header {
   background: #fff;
-  padding-bottom: 1.25em;
-  padding-top: 1.125em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  border-bottom: 1px solid #e9edf1;
 }
 
 .site-header-inside {
@@ -70,7 +71,11 @@
     border: 0;
     color: inherit;
     display: inline-block;
-    padding: 0.625rem 0;
+   /* padding: 0.625rem 0;*/
+    margin-right: 12px;
+    padding: 8px 12px;
+   font-size:15px;
+   line-height:18px;
 
     &:hover,
     &:focus {
