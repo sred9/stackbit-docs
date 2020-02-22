@@ -3,7 +3,10 @@
  * ----------------------------------------------------------------------------
  */
 @import url('https://fonts.googleapis.com/css?family=Armata&display=swap');
-
+@font-face {
+  font-family: "NeoSans";
+  src: url("/static/assets/webfonts/NeoSans.woff2");
+}
  .site-header {
   background: #fff;
   padding-bottom: 0.7em;
@@ -78,7 +81,8 @@
     padding: 8px 12px;
    font-size:15px;
    line-height:18px;
-   font-family: 'Armata', ;
+   font-family: 'NeoSans';
+   font-weight:500;
 
     &:hover,
     &:focus {
