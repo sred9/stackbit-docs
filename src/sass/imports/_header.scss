@@ -2,6 +2,8 @@
  * Site Header
  * ----------------------------------------------------------------------------
  */
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+
  .site-header {
   background: #fff;
   padding-bottom: 0.7em;
@@ -76,7 +78,7 @@
     padding: 8px 12px;
    font-size:15px;
    line-height:18px;
-   font-family:neo-sans, sans-serif;
+   font-family: 'Titillium Web', ;
 
     &:hover,
     &:focus {
