@@ -2,10 +2,10 @@
  * Site Header
  * ----------------------------------------------------------------------------
  */
-@font-face {
+/*@font-face {
   font-family: "NeoSans";
   src: url("https://rawcdn.githack.com/sred9/stackbit-docs/467467a8429228246ed3315a924a6eca50e25733/static/assets/webfonts/NeoSans.woff2");
-}
+}*/
  .site-header {
   background: #F7F8FA;
   padding-bottom: 0.7em;
@@ -78,9 +78,9 @@
    /* padding: 0.625rem 0;*/
     margin-right: 12px;
     padding: 8px 12px;
-   font-size:16px;
-   line-height:19px;
-   font-family: "NeoSans";
+   font-size:15px;
+   line-height:18px;
+   font-family: neo-sans, sans-serif;
    font-weight:400;
 
     &:hover,
