@@ -8,7 +8,8 @@ html {
 }
 
 body {
-  background: _palette(bg);
+ /* background: _palette(bg);*/
+  background-color:#f6f6f6;
   color: _palette(primary);
   line-height: 1.875;
   text-rendering: optimizeLegibility;
