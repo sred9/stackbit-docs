@@ -6,7 +6,7 @@
   font-family: "NeoSans";
   src: url("https://rawcdn.githack.com/sred9/stackbit-docs/467467a8429228246ed3315a924a6eca50e25733/static/assets/webfonts/NeoSans.woff2");
 }
-
+@import url(//db.onlinewebfonts.com/c/c36b46cb31a8b2f9c6054b4dfa11e03f?family=Neo+Sans+Std);
 
  .site-header {
   background: #F7F8FA;
@@ -82,7 +82,7 @@
     padding: 8px 12px;
    font-size:16px;
    line-height:19px;
-   font-family: NeoSans;
+   font-family: "NeoSansStd-Regular";
    font-weight:400;
 
     &:hover,
