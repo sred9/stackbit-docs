@@ -27,7 +27,7 @@ sections:
           href="/docs/deploy-node-hapi-app">hapi</a></li><li><a
           class="rc-paragraph"
           href="/docs/deploy-puppeteer-node">Puppeteer</a></li></ul></div></div>
-        title: Node
+        title: ''
       - actions:
           - label: View Posts
             url: blog/index.html
