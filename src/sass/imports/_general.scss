@@ -44,10 +44,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
-main#content{
+/*main#content{
    max-width: 980px;
    margin: 0 auto;
-}
+}*/
 a {
   border-bottom: 1px solid currentColor;
   color: _palette(accent);
@@ -535,6 +535,10 @@ img {
 /*...*/
 
 
+section#hero, section#features, section#text-img, section#cta{
+   max-width: 980px;
+   margin: 0 auto;
+}
 
 
 
