@@ -11,7 +11,24 @@ sections:
   - component: FeaturesBlock
     featureslist:
       - actions: []
-        content: ''
+        content: >2-
+           <div class="row">
+              <div class="col-sm">
+          <img
+          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
+          alt="" class="r-icon"> </div>
+              <div class="col-sm">
+          <h3 class="block-card-title">PHP</h3><ul class="block-list">
+
+
+          <li>Arrays</li>
+
+
+          <li>Loops</li>
+
+
+          </ul></div>
+            </div>
         title: ''
       - actions: []
         content: >2-
@@ -33,14 +50,26 @@ sections:
           </ul></div>
             </div>
         title: ''
-      - actions:
-          - label: Learn More
-            url: /style-guide.html
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Style Guides
+      - actions: []
+        content: >2-
+           <div class="row">
+              <div class="col-sm">
+          <img
+          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
+          alt="" class="r-icon"> </div>
+              <div class="col-sm">
+          <h3 class="block-card-title">PHP</h3><ul class="block-list">
+
+
+          <li>Arrays</li>
+
+
+          <li>Loops</li>
+
+
+          </ul></div>
+            </div>
+        title: ''
     section_id: features
     type: featuresblock
   - actions:
