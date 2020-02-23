@@ -154,11 +154,7 @@ sections:
     subtitle: ''
     title: ''
     type: featuresblock
-  - actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
+  - actions: []
     component: ContentBlock
     content: |-
       <div class="row">
