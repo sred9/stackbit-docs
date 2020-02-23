@@ -253,7 +253,6 @@ display: inline-block;
  /* box-shadow: 0 10px 20px -10px rgba(0,0,0,.1);*/
   background: #fff;
   border: 1px solid _palette(border);
-  margin-bottom: 3vw;
   padding:20px;
   border-radius:10px;
  
@@ -408,8 +407,7 @@ background-color: rgb(15, 224, 182);
     flex:none;
    /* margin-left: 1.5vw;
     margin-right: 1.5vw;*/
-   margin-left:0.5rem;
-   margin-right:0.5rem;
+    margin: 0 0 1rem 0;
   }
 
   .showcase-block,
@@ -494,4 +492,8 @@ background-color: rgb(15, 224, 182);
 
 section.features-block h3.block-item-title{
 display:none;
+}
+
+section#features{
+margin-bottom:0rem;
 }
