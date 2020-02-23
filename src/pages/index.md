@@ -38,7 +38,7 @@ sections:
           <h3 class="block-card-title">PHP</h3>
 
 
-          <ul>
+          <ul class="block-list">
 
 
           <li>Arrays</li>
