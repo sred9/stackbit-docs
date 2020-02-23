@@ -14,17 +14,17 @@ sections:
     featureslist:
       - actions: []
         content: >-
-          <div class="r-grid-item"><div class="r-card"><div class="r-card-head
-          r-color-light-green"><div class="r-icon rc-icon-white"><img
+          <div class="grid-item"><div class="card"><div class="card-head
+          cololight-green"><div class="icon rc-icon-white"><img
           src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="r-icon"></div></div><div class="r-card-body"><h4
-          class="r-card-title">Node</h4><ul class="r-card-ul-hidden"><li><a
+          alt="" class="icon"></div></div><div class="card-body"><h4
+          class="card-title">Node</h4><ul class="card-ul-hidden"><li><a
           class="rc-paragraph"
           href="/docs/deploy-node-express-app">Express</a></li><li><a
           class="rc-paragraph"
           href="/docs/deploy-node-hapi-app">hapi</a></li><li><a
           class="rc-paragraph"
-          href="/docs/deploy-puppeteer-node">Puppeteer</a></li></ul></div></div></div>
+          href="/docs/deploy-puppeteenode">Puppeteer</a></li></ul></div></div></div>
         title: ''
       - actions:
           - label: View Posts
