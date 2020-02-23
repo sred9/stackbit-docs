@@ -162,7 +162,7 @@ sections:
     component: ContentBlock
     content: |-
       <div class="row">
-      <div class="sm-4">
+      <div class="col-sm-4">
       <ul>
       <li>Python</li>
       <li>Java</li>
@@ -171,7 +171,7 @@ sections:
       <li>Algorithms</li>
       </ul>
       </div>
-      <div class="sm-4">
+      <div class="col-sm-4">
       <ul>
       <li>Python</li>
       <li>Java</li>
@@ -180,7 +180,7 @@ sections:
       <li>Algorithms</li>
       </ul>
       </div>
-      <div class="sm-4">
+      <div class="col-sm-4">
       <ul>
       <li>Python</li>
       <li>Java</li>
