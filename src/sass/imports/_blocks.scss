@@ -254,7 +254,7 @@ display: inline-block;
   background: #fff;
   border: 1px solid _palette(border);
   margin-bottom: 3vw;
-  padding:0;
+  padding:20px;
   border-radius:10px;
  
 }
@@ -403,9 +403,10 @@ background-color: rgb(15, 224, 182);
   }
 
   .block-item-inside {
-    -webkit-flex: 1 1 auto;
+    /*-webkit-flex: 1 1 auto;
     -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
+    flex: 1 1 auto;*/
+    flex:none;
     margin-left: 1.5vw;
     margin-right: 1.5vw;
   }
