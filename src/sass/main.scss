@@ -1,7 +1,7 @@
 
 // Font.
 $font: (
-  primary: ("Lato", Helvetica, Arial, sans-serif),
+  primary: ('Open Sans'),
   monospace: (Monaco, courier, monospace)
 );
 
@@ -21,8 +21,8 @@ $palette: (
 
 @import "imports/functions";
 
-@import "fontawesome.min.css";
-@import "brands.min.css";
+/*@import "fontawesome.min.css";
+@import "brands.min.css";*/
 
 @import "imports/reset";
 @import "imports/general";
