@@ -160,13 +160,39 @@ sections:
       - label: Get Started
         url: /docs/getting-started/index.html
     component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
+    content: |-
+      <div class="row">
+      <div class="sm-4">
+      <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Django</li>
+      <li>C++</li>
+      <li>Algorithms</li>
+      </ul>
+      </div>
+      <div class="sm-4">
+      <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Django</li>
+      <li>C++</li>
+      <li>Algorithms</li>
+      </ul>
+      </div>
+      <div class="sm-4">
+      <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Django</li>
+      <li>C++</li>
+      <li>Algorithms</li>
+      </ul>
+      </div>
+      </div>
+    image: ''
     section_id: text-img
-    title: A Section With An Image
+    title: More
     type: contentblock
   - component: FeaturesBlock
     type: featuresblock
