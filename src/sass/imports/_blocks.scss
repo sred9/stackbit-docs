@@ -328,9 +328,8 @@ background-color: rgb(15, 224, 182);
 }
 
 .block-item-text {
-  margin: 0 0 1.25rem;
-  padding-left: 2.25rem;
-  padding-right: 2.25rem;
+  margin: 0;
+  padding:0;
  
  a {
  font-size:14px;
@@ -360,7 +359,7 @@ background-color: rgb(15, 224, 182);
 .features-block,
 .docs-block {
   .block-item-inside {
-    padding-top: 0;
+    
   }
 }
 
