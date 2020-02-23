@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Get Started
-        url: docs/index.html
+  - actions: []
     component: HeroBlock
     content: Run your code in production in just a few clicks.
     image: ''
