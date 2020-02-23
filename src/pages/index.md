@@ -24,9 +24,7 @@ sections:
           class="rc-paragraph"
           href="/docs/deploy-puppeteenode">Puppeteer</a></li></ul></div></div></div>
         title: ''
-      - actions:
-          - label: View Posts
-            url: blog/index.html
+      - actions: []
         content: >2-
             <div class="row">
               <div class="col-sm">
@@ -37,7 +35,7 @@ sections:
 
           \    </div>
               <div class="col-sm">
-          <h2>PHP</h2>
+          <h3 class="block-card-title">PHP</h3>
 
 
           <ul>
@@ -49,11 +47,7 @@ sections:
           <li>Loops</li>
 
 
-          </ul>
-
-
-          \    </div>
-             
+          </ul></div>
             </div>
         title: ''
       - actions:
