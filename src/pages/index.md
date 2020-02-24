@@ -8,12 +8,6 @@ sections:
     section_id: hero
     title: Render Documentation
     type: heroblock
-  - component: ContentBlock
-    content: >
-      <input type="text" class="search-input home-input" maxlength="256"
-      name="search" id="search" value="">
-    title: ''
-    type: contentblock
   - component: FeaturesBlock
     featureslist:
       - actions: []
