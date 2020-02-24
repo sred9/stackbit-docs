@@ -540,7 +540,9 @@ section#hero, section#features, section#text-img, section#cta{
    margin: 0 auto;
 }
 
-
+[class*=" devicon-"], [class^=devicon-]{
+font-size:56px;
+}
 
 
 
