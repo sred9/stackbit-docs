@@ -27,7 +27,7 @@ sections:
         content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-bootstrap\">\n<i class=\"devicon-bootstrap-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">Bootstrap</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
       - actions: []
-        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-angularjs\">\n<i class=\"devicon-angularjs-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">AngularJS/h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-angularjs\">\n<i class=\"devicon-angularjs-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">AngularJS</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
       - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-react\">\n<i class=\"devicon-react-original devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">React</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
     section_id: features
