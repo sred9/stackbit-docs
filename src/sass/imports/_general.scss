@@ -544,15 +544,42 @@ section#hero, section#features, section#text-img, section#cta{
 font-size:56px;
 }*/
 i.devicon{
-font-size:56px;
+	font-size:56px;
+	color:#fff;
 }
 
 
 
 
+/*brand fill colors*/
+.fill-light-green {
+    background-color: rgb(15, 224, 182)!important;
+    box-shadow: rgb(15, 224, 182) 0px 10px 20px -16px;
+}
 
+.fill-html {
+    background-color: #E44D26!important;
+    box-shadow: #E44D26 0px 10px 20px -16px;
+}
+.fill-css {
+    background-color: #16A1DC!important;
+    box-shadow: #16A1DC 0px 10px 20px -16px;
+}
+.fill-javascript {
+    background-color: #F0DB4F!important;
+    box-shadow: #F0DB4F 0px 10px 20px -16px;
+}
+.fill-bootstrap {
+    background-color: #563D7C!important;
+    box-shadow: #563D7C 0px 10px 20px -16px;
+}
 
-
-
-
+.fill-angularjs {
+    background-color: #DC3135!important;
+    box-shadow: #DC3135 0px 10px 20px -16px;
+}
+.fill-react {
+    background-color: #00D2F8!important;
+    box-shadow: #00D2F8 0px 10px 20px -16px;
+}
 
