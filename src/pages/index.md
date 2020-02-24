@@ -11,145 +11,25 @@ sections:
   - component: FeaturesBlock
     featureslist:
       - actions: []
-        content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-light-green">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-light-green\">\n<i class=\"devicon-html5-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">HTML</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
       - actions: []
-        content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-light-blue">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-light-blue\">\n<i class=\"devicon-css3-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">CSS</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
       - actions: []
-        content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-dark-blue">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-dark-blue\">\n<i class=\"devicon-javascript-plain devicon\"></i>\r\n </div></div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">Javascript</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
     section_id: features
     type: featuresblock
   - component: FeaturesBlock
     featureslist:
       - actions: []
-        content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-yellow">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-yellow\">\n<i class=\"devicon-bootstrap-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">Bootstrap</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
       - actions: []
-        content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-red">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+        content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-red\">\n<i class=\"devicon-angularjs-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">AngularJS/h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
         title: ''
-      - content: >2-
-           <div class="row">
-              <div class="col-sm-6">
-
-          <div class="block-icon-head fill-purple">
-
-          <img
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA5MCI+PGRlZnM+PHN0eWxlPi5he2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tbm9kZS1maWxsPC90aXRsZT48cGF0aCBjbGFzcz0iYSIgZD0iTTczLjksMjUuMiw0Ny41NSwxMC4wNWE1LjIsNS4yLDAsMCwwLTUuMTksMEwxNi4xLDI1LjIxYTUuMTksNS4xOSwwLDAsMC0yLjYsNC41VjYwLjI2QTUuMiw1LjIsMCwwLDAsMTYsNjQuNzJsNi40NCwzLjg4YTcuNDMsNy40MywwLDAsMCwzLjc2Ljg2LDQuNzYsNC43NiwwLDAsMCwyLjE5LS42OEE0LjQxLDQuNDEsMCwwLDAsMzAsNjcuMTRhNC40Niw0LjQ2LDAsMCwwLC41OC0yLjJWMzAuMzJoNC4zNFY2NC45NGExMC40MiwxMC40MiwwLDAsMS0xLjE4LDUuMjIsNi42Nyw2LjY3LDAsMCwxLTMuNDQsM0w0Mi40MSw4MGE1LjE5LDUuMTksMCwwLDAsNS4xNiwwTDczLjksNjQuNzFhNS4xOSw1LjE5LDAsMCwwLDIuNi00LjVWMjkuNzFBNS4yMSw1LjIxLDAsMCwwLDczLjksMjUuMlptLTIxLjIxLDM0Yy02LjA3LDAtMTMuNDEtMS41My0xMy45MS04Ljg0bC0uMDgtMS4xNWg0LjE3bC4xNy44NmMuNjgsMy4zOSwyLjQzLDUuMjIsOS43Miw1LjIyLDQsMCw4LjY2LS41NSw4LjY2LTQuODQsMC0yLjMyLTEuNS0zLjU4LTEwLjA1LTQuNDItNy4zOS0uNzUtMTEuNjYtMi4yOC0xMS42Ni03Ljg3LDAtMi41MSwxLjE2LTguMzQsMTEuOTUtOC4zNCw4LjIsMCwxMi4yMiwyLjU2LDEzLDguMjlsLjE4LDEuMjJINjAuNzRsLS4yMi0uNzljLTEtMy41NS0zLjI4LTQuODEtOC44Ni00LjgxLTcuNSwwLTcuNSwzLjIzLTcuNSw0LjI5LDAsMi42MSwyLDMuMTUsOS43Nyw0LjE1LDguMjYsMS4wOCwxMS45NSwyLjUsMTEuOTUsOC4wNnMtNC44Nyw5LTEzLjE5LDlaIi8+PC9zdmc+"
-          alt="" class="block-icon"></div> </div>
-              <div class="col-sm-6">
-          <h3 class="block-card-title">PHP</h3><ul class="block-list">
-
-
-          <li>Arrays</li>
-
-
-          <li>Loops</li>
-
-
-          </ul></div>
-            </div>
+      - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-purple\">\n<i class=\"devicon-react-original devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">React</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
     section_id: features
     subtitle: ''
     title: ''
