@@ -34,6 +34,12 @@ sections:
     subtitle: ''
     title: ''
     type: featuresblock
+  - component: FeaturesBlock
+    featureslist:
+      - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-mysql\">\n<i class=\"devicon-mysql-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">MySQL</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
+      - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-nodejs\">\n<i class=\"devicon-nodejs-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">Node.js</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
+      - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-mongodb\">\n<i class=\"devicon-mongodb-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">MongoDB</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
+    type: featuresblock
   - actions: []
     component: ContentBlock
     content: |-
@@ -70,8 +76,6 @@ sections:
     section_id: text-img
     title: More
     type: contentblock
-  - component: FeaturesBlock
-    type: featuresblock
   - actions:
       - label: Get Started
         url: /docs/getting-started/installation.html
@@ -91,6 +95,8 @@ sections:
     section_id: text-no-img
     title: A Section Without Image
     type: contentblock
+  - component: FeaturesBlock
+    type: featuresblock
 menus:
   main:
     title: Home
