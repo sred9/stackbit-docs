@@ -39,6 +39,7 @@ sections:
       - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-mysql\">\n<i class=\"devicon-mysql-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">MySQL</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
       - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-nodejs\">\n<i class=\"devicon-nodejs-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">Node.js</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
       - content: " <div class=\"row\">\n    <div class=\"col-sm-6\">\n\n<div class=\"block-icon-head fill-mongodb\">\n<i class=\"devicon-mongodb-plain devicon\"></i>\r\n</div> </div>\n    <div class=\"col-sm-6\">\n<h3 class=\"block-card-title\">MongoDB</h3><ul class=\"block-list\">\n\n<li>Arrays</li>\n\n<li>Loops</li>\n\n</ul></div>\n  </div>"
+    section_id: features
     type: featuresblock
   - actions: []
     component: ContentBlock
