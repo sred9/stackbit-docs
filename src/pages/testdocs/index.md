@@ -4,7 +4,7 @@ menus:
   main:
     title: Docs
     weight: 2
-template: docs
+template: testdocs
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
