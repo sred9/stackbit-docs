@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {Layout} from '../components/index';
-import DocsMenu from '../components/DocsMenu';
+/*import DocsMenu from '../components/DocsMenu';*/
 import {htmlToReact, getPages, Link, safePrefix} from '../utils';
 
 export default class Docs extends React.Component {
@@ -18,7 +18,7 @@ export default class Docs extends React.Component {
               <div className="outer">
                 <div className="inner">
                   <div className="docs-content">
-                    <DocsMenu {...this.props} page={this.props.pageContext} site={this.props.pageContext.site} />
+                   /* <DocsMenu {...this.props} page={this.props.pageContext} site={this.props.pageContext.site} />*/
                     <article className="post type-docs">
                       <div className="post-inside">
                         <header className="post-header">
