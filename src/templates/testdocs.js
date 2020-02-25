@@ -17,9 +17,9 @@ export default class Docs extends React.Component {
             <Layout {...this.props}>
               <div className="outer">
                 <div className="inner">
-                  <div className="docs-content">
+                  <div className="testdocs-content">
                    /* <DocsMenu {...this.props} page={this.props.pageContext} site={this.props.pageContext.site} />*/
-                    <article className="post type-docs">
+                    <article className="post type-testdocs">
                       <div className="post-inside">
                         <header className="post-header">
                           <h1 className="post-title line-left">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
@@ -28,9 +28,9 @@ export default class Docs extends React.Component {
                           {htmlToReact(_.get(this.props, 'pageContext.html'))}
                           {(root_page_path !== current_page_path) && <React.Fragment>
                             {has_children && 
-                              <ul className="docs-section-items">
+                              <ul className="testdocs-section-items">
                                 {_.map(child_pages, (child_page, child_page_idx) => (
-                                <li key={child_page_idx} className="docs-section-item"><Link to={safePrefix(_.get(child_page, 'url'))} className="docs-item-link">{_.get(child_page, 'frontmatter.title')}<span className="icon-angle-right" aria-hidden="true" /></Link></li>
+                                <li key={child_page_idx} className="testdocs-section-item"><Link to={safePrefix(_.get(child_page, 'url'))} className="testdocs-item-link">{_.get(child_page, 'frontmatter.title')}<span className="icon-angle-right" aria-hidden="true" /></Link></li>
                                 ))}
                               </ul>
                             }
@@ -50,4 +50,3 @@ export default class Docs extends React.Component {
         );
     }
 }
-
