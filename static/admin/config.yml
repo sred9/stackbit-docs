@@ -1188,12 +1188,12 @@ collections:
                 
                 
                 
-                - name: doc_sections
+             - name: testdoc_sections
     label: Documentation Sections
     files:
-      - name: doc_sections
+      - name: testdoc_sections
         label: Documentation Sections
-        file: src/data/doc_sections.yml
+        file: src/data/testdoc_sections.yml
         fields:
           - widget: string
             name: root_folder
