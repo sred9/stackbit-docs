@@ -56,7 +56,7 @@
 }
 
 .site-navigation {
-  margin-left: auto;
+  margin-left: 0;
 
   .menu,
   .submenu {
@@ -81,9 +81,9 @@
     color: inherit;
     display: inline-block;
    /* padding: 0.625rem 0;*/
-    margin-right: 12px;
-    padding: 8px 12px;
-   font-size:15px;
+    margin-right: 0px;
+    padding: 4px 4px;
+   font-size:18px;
    line-height:18px;
 font-family: 'Roboto', ;
     font-weight:400;
