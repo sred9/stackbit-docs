@@ -11,6 +11,11 @@
   position: sticky;
   top: 0;
   z-index: 1000;
+  
+  width: 88%;
+  margin: 0 auto;
+  border-bottom: .1rem solid rgba(14,30,37,.054);
+  align-items:center;
 }
 
 .site-header-inside {
