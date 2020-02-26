@@ -18,7 +18,9 @@ font-style: normal;
 body {
  /* background: _palette(bg);*/
   background-color:#f6f6f6;
-  color: _palette(primary);
+ /* color: _palette(primary);*/
+	color: rgba(14, 30, 37, 0.87);
+
   line-height: 1.875;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
