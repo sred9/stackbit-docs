@@ -37,12 +37,12 @@ font-display:auto;font-style:normal;font-weight:400;
 }
 */
 
-  @import url("https://use.typekit.net/yeh0scn.css");
-
+ /* @import url("https://use.typekit.net/yeh0scn.css");*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
 
 html {
   /*font-family: "open-sans",sans-serif;*/
-font-family: roboto,sans-serif;
+font-family: 'Roboto', ;
 font-weight: 400;
 font-style: normal;
   font-size: 100%;
@@ -84,7 +84,7 @@ h6 {
   line-height: 1.2;
   margin: 2.25rem 0 1.125rem;
   text-rendering: optimizeLegibility;
-font-family: roboto,sans-serif;
+font-family: 'Roboto', ;
 
 
   &:first-child {
