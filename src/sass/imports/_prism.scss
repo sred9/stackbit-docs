@@ -11,7 +11,8 @@ pre[class*="language-"] {
   color: _palette(primary);
   background: none;
   font-family: _font(monospace);
-  font-size: 0.875rem;
+  /*font-size: 0.875rem;*/
+  font-size: 0.95rem;
   text-align: left;
   white-space: pre;
   word-spacing: normal;
@@ -31,7 +32,7 @@ pre[class*="language-"] {
 pre[class*="language-"] {
   margin: 0 0 1.875rem;
   overflow: auto;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 :not(pre) > code[class*="language-"],
