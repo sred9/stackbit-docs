@@ -2,46 +2,15 @@
  * General
  * ----------------------------------------------------------------------------
  */
-/*@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');*/
-/*@import url(https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css);
-*/
+
 @import url('https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css');
 @import url('https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-/*@font-face {
-font-family:"open-sans";
-src:url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
-}
-
-
-@font-face {
-font-family:"roboto";
-src:url("https://use.typekit.net/af/acc12d/00000000000000003b9ad05b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/acc12d/00000000000000003b9ad05b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/acc12d/00000000000000003b9ad05b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
-}
-
-@font-face {
-	font-family: neo-sans;
-	src: url(https://use.typekit.net/af/e8ba57/00000000000000003b9b2038/27/l?fvd=n5&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff2"), url(https://use.typekit.net/af/e8ba57/00000000000000003b9b2038/27/d?fvd=n5&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff"), url(https://use.typekit.net/af/e8ba57/00000000000000003b9b2038/27/a?fvd=n5&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype");
-	font-style: normal;
-	font-weight: 500
-}
-
-
-@font-face {
-	font-family: neo-sans;
-	src: url(https://use.typekit.net/af/8870bf/00000000000000003b9b203a/27/l?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff2"), url(https://use.typekit.net/af/8870bf/00000000000000003b9b203a/27/d?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("woff"), url(https://use.typekit.net/af/8870bf/00000000000000003b9b203a/27/a?fvd=n4&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype");
-	font-style: normal;
-	font-weight: 400
-}
-*/
-
- /* @import url("https://use.typekit.net/yeh0scn.css");*/
 
 html {
   /*font-family: "open-sans",sans-serif;*/
-font-family: roboto, sans-serif;
+font-family: 'Roboto', ;
 font-weight: 400;
 font-style: normal;
   font-size: 100%;
@@ -87,7 +56,7 @@ h6 {
   line-height: 1.2;
   margin: 2.25rem 0 1.125rem;
   text-rendering: optimizeLegibility;
-font-family: roboto, sans-serif;
+font-family: 'Roboto', ;
 
   &:first-child {
     margin-top: 0;
