@@ -258,7 +258,8 @@ ul.toc-submenu {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    padding-top: 3.75em;
+    /*padding-top: 3.75em;*/
+    padding-top: 0.5rem;
   }
 
   .post.type-docs {
