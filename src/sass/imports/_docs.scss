@@ -63,9 +63,10 @@
     background: #fff;
     border: 1px solid _palette(border);
     border-radius: 5px;
-    box-shadow: 0 10px 20px -10px rgba(0,0,0,.1);
+    /*box-shadow: 0 10px 20px -10px rgba(0,0,0,.1);*/
+    box-shadow: none;
     box-sizing: border-box;
-    padding: 2.5em 0;
+    padding: 1em 0;
   }
   
   .post-title {
@@ -75,7 +76,7 @@
   }
 
   .post-content {
-    padding: 0 7%;
+    padding: 0 4%;
   }
 }
 
