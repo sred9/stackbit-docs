@@ -34,9 +34,10 @@ a {
   border-bottom: 1px solid currentColor;
   color: _palette(accent);
   text-decoration: none;
-  -webkit-transition: border-color .3s ease, color .3s ease;
-  transition: border-color .3s ease, color .3s ease;
-
+/*  -webkit-transition: border-color .3s ease, color .3s ease;
+  transition: border-color .3s ease, color .3s ease;*/
+	transition: all .1s;
+-webkit-transition: all .1s;
   &:hover,
   &:focus {
     color: _palette(primary);
