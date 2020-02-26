@@ -127,7 +127,8 @@ pre {
 :not(pre) > code {
   background: _palette(bg);
   border-radius: 3px;
-  font-size: 0.875rem;;
+  /*font-size: 0.875rem;*/
+  font-size: 18px;
   padding: 0.1em;
   white-space: normal;
 }
