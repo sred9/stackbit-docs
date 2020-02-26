@@ -203,7 +203,10 @@ ul.toc-submenu {
     }
   }
 }
-
+.page-nav a:hover, .page-nav a:focus {
+    color: #5b6ff1;
+  text-decoration:underline;
+}
 .page-nav {
   display: none;
 
