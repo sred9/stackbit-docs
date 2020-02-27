@@ -104,7 +104,7 @@
     border-radius: 3px;
     color: _palette(secondary);
     display: block;
-    font-weight: bold;
+    font-weight: 500;
     padding: 0.9375em;
     position: relative;
 
@@ -141,7 +141,7 @@
 
 .docs-toc {
   color: _palette(secondary);
-  font-weight: bold;
+  font-weight: 500;
   line-height: 1.5;
   list-style: none;
   margin: 0;
@@ -214,7 +214,7 @@ ul.toc-submenu {
   .page-nav-title {
     font-size: 1rem;
     margin: 0 0 0.825rem;
-    font-weight:bold;
+    font-weight:500;
 
     &:only-child {
       display: none;
